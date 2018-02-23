@@ -1,0 +1,9 @@
+{
+	"name": "indexed-relation",
+	"authors": [
+		"Chloé"
+	],
+	"description": "In-memory indexed relations",
+	"copyright": "Copyright © 2018, Chloé",
+	"license": "3-Clause BSD"
+}
