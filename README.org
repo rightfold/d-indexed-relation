@@ -3,6 +3,18 @@
 indexed-relation is a D library for indexed relations: bags of values with
 efficient lookups on multiple independent keys.
 
+** Progress
+
+*** DONE Relation
+*** DONE Hash table index
+*** DONE Non-const lookup
+*** DONE Insert
+*** TODO Red­Black tree index
+*** TODO Const lookup
+*** TODO Delete
+*** TODO Ranges
+*** TODO Documentation
+
 ** Usage example
 
 For usage examples, see the unit tests in the source files.
