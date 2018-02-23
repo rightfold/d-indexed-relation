@@ -1,0 +1,14 @@
+* indexed-relation
+
+indexed-relation is a D library for indexed relations: bags of values with
+efficient lookups on multiple independent keys.
+
+** Usage example
+
+For usage examples, see the unit tests in the source files.
+
+** Implementations in other languages
+
+A similar C++ library exists as part of the Boost project: the Boost Multi-index
+Containers Library. In Haskell, the packages ixset and ixset-typed provide
+similar functionality. You can also find indexed relations in any decent RDBMS.
